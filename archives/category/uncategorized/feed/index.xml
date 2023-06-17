@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; FTML.</title>
-	<atom:link href="http://adeyinkakoya.github.io/archives/category/uncategorized/feed" rel="self" type="application/rss+xml" />
-	<link>http://adeyinkakoya.github.io/</link>
+	<atom:link href="https://adeyinkakoya.github.io/archives/category/uncategorized/feed" rel="self" type="application/rss+xml" />
+	<link>https://adeyinkakoya.github.io/</link>
 	<description>Making logistics accessible and affordable to every business in Africa.</description>
 	<lastBuildDate>Mon, 27 Feb 2023 09:15:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://adeyinkakoya.github.io/archives/1</link>
-					<comments>http://adeyinkakoya.github.io/archives/1#respond</comments>
+		<link>https://adeyinkakoya.github.io/archives/1</link>
+					<comments>https://adeyinkakoya.github.io/archives/1#respond</comments>
 		
 		<dc:creator><![CDATA[ftml]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2023 09:15:53 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://adeyinkakoya.github.io/?p=1</guid>
+		<guid isPermaLink="false">https://adeyinkakoya.github.io/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://adeyinkakoya.github.io/archives/1/feed</wfw:commentRss>
+					<wfw:commentRss>https://adeyinkakoya.github.io/archives/1/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

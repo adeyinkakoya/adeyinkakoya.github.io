@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ElegantIcons';
-	src:url('http://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.eot');
-	src:url('http://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.eot#iefix') format('embedded-opentype'),
-		url('http://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.woff') format('woff'),
-		url('http://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.ttf') format('truetype'),
-		url('http://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.svg#ElegantIcons') format('svg');
+	src:url('https://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.eot');
+	src:url('https://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.eot#iefix') format('embedded-opentype'),
+		url('https://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.woff') format('woff'),
+		url('https://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.ttf') format('truetype'),
+		url('https://adeyinkakoya.github.io/wp-content/themes/wetland/assets/fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
